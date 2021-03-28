@@ -1,0 +1,6 @@
+---
+name: SoupKit
+version: 1.0
+main: EinzEnte\SoupKit\Main
+api: 3.18.1
+...
